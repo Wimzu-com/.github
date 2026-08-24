@@ -1,0 +1,52 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="82" y1="30" x2="1091" y2="382" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#15162D"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="353" y1="105" x2="849" y2="249" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(211 58) rotate(28) scale(345 251)">
+      <stop stop-color="#7C5CFC" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#7C5CFC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1042 307) rotate(-151) scale(331 218)">
+      <stop stop-color="#22D3EE" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#violetGlow)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#cyanGlow)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+
+  <g opacity="0.9">
+    <circle cx="99" cy="80" r="5" fill="#A78BFA"/>
+    <circle cx="1127" cy="97" r="4" fill="#22D3EE"/>
+    <circle cx="1080" cy="265" r="3" fill="#A78BFA"/>
+    <path d="M98 103V147M76 125H120" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="2"/>
+    <path d="M1107 202V234M1091 218H1123" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="282" y="72" width="636" height="216" rx="32" fill="#101527" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <rect x="306" y="96" width="6" height="168" rx="3" fill="url(#brand)"/>
+  </g>
+
+  <text x="600" y="177" text-anchor="middle" fill="url(#brand)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="8">WIMZU</text>
+  <text x="600" y="223" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="4">DIGITAL PRODUCTS · BUILT WITH INTENTION</text>
+  <text x="600" y="253" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" letter-spacing="2">DESIGN  /  DEVELOPMENT  /  DELIVERY</text>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="27.25" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+</svg>
