@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/studio-banner.png" width="640" alt="Wimzu.com — Games that last" />
+  <img src="./assets/wimzu-mark-gold.png" width="180" alt="Logo Wimzu" />
+
+  <h1>WIMZU.COM</h1>
+
+  <p><strong>Games that last.</strong></p>
 
   <p><strong>Niezależne studio gier mobilnych i cyfrowej rozrywki.</strong></p>
 
@@ -41,7 +45,5 @@
 <br />
 
 <div align="center">
-  <img src="./assets/wimzu-mark-gold.png" width="96" alt="Znak Wimzu" />
-  <br />
   <sub>Wimzu.com · Games that last.</sub>
 </div>
