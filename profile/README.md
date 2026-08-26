@@ -1,31 +1,47 @@
 <div align="center">
-  <img src="./assets/wimzu-logo-wide.png" width="100%" alt="Logo Wimzu.com" />
+  <img src="./assets/studio-banner.png" width="640" alt="Wimzu.com — Games that last" />
 
-  <br />
+  <p><strong>Niezależne studio gier mobilnych i cyfrowej rozrywki.</strong></p>
 
   <a href="https://github.com/Wimzu-com?tab=repositories">Repozytoria</a>
 </div>
 
-## Wimzu.com
+---
 
-Projektujemy i wdrażamy serwisy, aplikacje oraz narzędzia internetowe. Ten profil skupia kod projektów rozwijanych pod marką Wimzu.com.
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <h2>Wimzu</h2>
+      <p>
+        Tworzymy wciągające gry mobilne, które łączą dopracowaną jakość,
+        świeże pomysły i zrównoważoną strategię rozwoju.
+      </p>
+      <p>
+        Naszym celem jest tworzenie gier, które dają satysfakcję od pierwszej
+        sesji i zostają z graczami na długo.
+      </p>
+    </td>
+    <td width="32%" align="center">
+      <img src="./assets/mobile-game-preview.png" width="210" alt="Gra mobilna Wimzu" />
+    </td>
+  </tr>
+</table>
 
-### Zakres
+## Na czym się skupiamy
 
-- aplikacje i interfejsy webowe,
-- backend, API i bazy danych,
-- automatyzacja wdrożeń i infrastruktura.
+- czytelna i satysfakcjonująca rozgrywka,
+- spójna oprawa oraz dbałość o detale,
+- rozwój oparty na testach i opinii graczy,
+- regularny rozwój także po premierze.
 
-### Technologie
+## Produkcja
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-</p>
+**Game design** · **Mobile development** · **2D/3D art** · **QA** · **Analytics** · **Live ops**
 
-Technologie dobieramy osobno do każdego projektu. Powyżej znajduje się stos, z którego korzystamy najczęściej.
+<br />
+
+<div align="center">
+  <img src="./assets/wimzu-mark-gold.png" width="96" alt="Znak Wimzu" />
+  <br />
+  <sub>Wimzu.com · Games that last.</sub>
+</div>
